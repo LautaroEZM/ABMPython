@@ -1,0 +1,1 @@
+[{"name": "Manzanas", "quantity": 10, "price": 0.5, "date_added": "2024-10-28"}, {"name": "Bananas", "quantity": 20, "price": 0.3, "date_added": "2024-10-28"}, {"name": "Naranjas", "quantity": 15, "price": 0.4, "date_added": "2024-10-28"}, {"name": "Peras", "quantity": 12, "price": 0.6, "date_added": "2024-10-28"}]
